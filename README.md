@@ -1,5 +1,5 @@
-# Radxa Monitor w/ Anomaly Detection
-Monitor your Radxa (or other SBC) and discover bottlenecks.
+# ztop
+Not htop or btop, but ztop. Sits on top of your Zero (or any other SBC) and discovers bottlenecks.
 
 <img width="1520" height="833" alt="Radxa Monitor Demo" src="https://github.com/user-attachments/assets/bf5bc322-b623-4cef-bd0f-05d5faccf045" />
 
