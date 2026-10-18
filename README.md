@@ -8,7 +8,7 @@ Not htop or btop, but ztop. Sits on top of your Zero (or any other SBC) and disc
 
 1. Navigate to your folder and clone the repo:
 ```bash
-git clone https://github.com/oh-nought/radxa-monitor
+git clone https://github.com/sanchezner/radxa-monitor
 cd radxa-monitor
 ```
 
